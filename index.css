@@ -1,0 +1,73 @@
+.body {
+  background-color: blue;
+}
+
+.titleAndImage {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.pageTitle {
+  font-family: "Fredoka One", cursive;
+}
+
+.scoreHolder {
+  display: flex;
+  justify-content: center;
+}
+
+.score {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+}
+
+#score-display {
+  font-family: "Quicksand", sans-serif;
+  margin-left: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.snakeImage {
+  height: 60px;
+  width: 60px;
+  margin-left: 20px;
+  margin-top: 10px;
+  background-color: #e6e6fa;
+}
+
+.gameDescription {
+  font-family: "Quicksand", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.contentHolder {
+  max-width: 500px;
+  margin: auto;
+  max-height: ;
+}
+
+.linkHolder {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  margin-left: 21%;
+  margin-bottom: 25px;
+}
+
+.fa-github:before {
+  color: black;
+  font-size: 45px;
+}
+
+.fa-linkedin:before {
+  color: black;
+  font-size: 45px;
+}
+
+.fa-file:before {
+  color: black;
+  font-size: 45px;
+}
