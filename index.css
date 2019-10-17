@@ -5,7 +5,7 @@
 .titleAndImage {
   display: flex;
   justify-content: center;
-  margin-top: 25px;
+  margin-top: 10px;
 }
 
 .pageTitle {
@@ -41,12 +41,12 @@
   font-family: "Quicksand", sans-serif;
   display: flex;
   justify-content: center;
+  margin-top: 0px;
 }
 
 .contentHolder {
   max-width: 500px;
   margin: auto;
-  max-height: ;
 }
 
 .linkHolder {
@@ -54,7 +54,7 @@
   justify-content: space-between;
   width: 300px;
   margin-left: 21%;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 .fa-github:before {
