@@ -44,6 +44,7 @@ export class Snake {
     ];
 
     document.addEventListener("keydown", e => {
+      e.preventDefault();
       if (
         e.key === "ArrowRight" ||
         e.key === "ArrowLeft" ||
